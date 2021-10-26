@@ -2,10 +2,10 @@
 
 ## Must Haves
 
-- **Home Page**
- the home page must have all information that can help students,coaches,and volunteer coaches
+- **Home Page** the home page must have all information that can help
+  students,coaches,and volunteer coaches
   - As a student I want to get more information about school programs
-  - [ ] _there is a buttom for progams information_
+  - [ ] _there is a button for programs information_
   - As a student I want to know how can i apply this program
   - [ ] _there is a section says what the dates and rules to apply_
   - As a coach I want to know how to apply to be one of the coaches.
@@ -17,7 +17,7 @@
 
 - **Home Page**
 
-  - [ ] _there is a part talk about sucsses stories_
+  - [ ] _there is a part talk about success stories_
   - [ ] _there is a footer with contact info_
 
 ## Could Haves

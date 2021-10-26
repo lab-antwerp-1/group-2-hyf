@@ -23,7 +23,7 @@
   - [ ] a section about hack your future programs.
   - [ ] CSS:
   - [ ] a class to make the text look fancy.
-  - [ ] ther is a blue background.
+  - [ ] there is a blue background.
 
 ---
 
@@ -41,7 +41,7 @@
 - [ ] CSS:
 
 - [ ] a class to make the text look fancy.
-- [ ] ther is a photo on right side.
+- [ ] there is a photo on right side.
 
 ---
 
@@ -51,10 +51,10 @@ Email, telephone numbers, and some links.
 
 ### Extra Info: Interface
 
-- An aside with  for digging deeper.
+- An aside with for digging deeper.
   - [ ] HTML:
   - [ ] some helpful reference link.
-  - [ ] some helpful reference nombers and emails.
+  - [ ] some helpful reference numbers and emails.
   - [ ] CSS:
   - [ ] a class to position the aside
   - [ ] a class to style the text

@@ -25,7 +25,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 - Eduardo: More than 5 hours
 - Khaled: depend on my motivation, but most likely 3-4 hours per day.
-- Nefn: _5h_; im free but im busy on monday after 4 and wednsday after 12
+- Nefn: _5h_; im free but im busy on monday after 4 and wednesday after 12
 - Abdulsamed: Everyday I try to study min 1,5 hour.
 - Micky: 4 hours per day
 

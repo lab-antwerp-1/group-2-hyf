@@ -12,14 +12,14 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day       | Eduardo | Khaled |  Nefn   | Abdulsamed | Mickey | 
-| --------- | :-----: | :----: | :-----: | :--------: | :-----:| 
-| Monday    | 10 - 20 |        | 10 - 04 |  08 - 22   | 18-22  | 
-| Tuesday   | 10 - 20 |        | 10 - 20 |  17 - 22   | 18-22  | 
-| Wednesday | 10 - 20 |        | 10 - 12 |  19 - 22   | 18-22  | 
-| Thursday  | 10 - 20 |        | 10 - 20 |  10 - 18   | 18-22  | 
-| Friday    | 10 - 20 |        | 10 - 20 |  19 - 21   | 18-22  | 
-| Saturday  | 10 - 20 |        | 10 - 20 |  10 - 18   | 08-22  | 
+| Day       | Eduardo | Khaled |  Nefn   | Abdulsamed | Mickey |
+| --------- | :-----: | :----: | :-----: | :--------: | :-----:|
+| Monday    | 10 - 20 |        | 10 - 04 |  08 - 22   | 18-22  |
+| Tuesday   | 10 - 20 |        | 10 - 20 |  17 - 22   | 18-22  |
+| Wednesday | 10 - 20 |        | 10 - 12 |  19 - 22   | 18-22  |
+| Thursday  | 10 - 20 |        | 10 - 20 |  10 - 18   | 18-22  |
+| Friday    | 10 - 20 |        | 10 - 20 |  19 - 21   | 18-22  |
+| Saturday  | 10 - 20 |        | 10 - 20 |  10 - 18   | 08-22  |
 
 ### How many hours everyone has per day
 

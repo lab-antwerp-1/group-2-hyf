@@ -19,7 +19,8 @@ Some boundaries around our project.
       Learning and updating by doing.
     - Khaled:
     - Nefn: This is my first time.
-    - Abdulsamed: I have some experiences in programming languages like Java, C, C++ and HTML.
+    - Abdulsamed: I have some experiences in programming languages like Java, C,
+      C++ and HTML.
     - Micky: some skills in python
 
 - Amount of time available to work on the project (this week):

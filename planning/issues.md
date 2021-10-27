@@ -78,7 +78,6 @@ free to change these if your team wants to, it's just a starting suggestion:
 
 <details>
 <summary> Site Title: Interface </summary>
-<br>
 
 **Milestone**: `must have`
 
@@ -102,7 +101,6 @@ Header with centered title
 </details>
 <details>
 <summary> Introduction: Interface </summary>
-<br>
 
 **Milestone**: `must have`
 
@@ -128,7 +126,6 @@ A body of text and links
 </details>
 <details>
 <summary> Main Info: Interface </summary>
-<br>
 
 **Milestone**: `must have`
 
@@ -153,7 +150,6 @@ Header with centered title
 </details>
 <details>
 <summary> Extra Info: Interface </summary>
-<br>
 
 **Milestone**: `must have`
 

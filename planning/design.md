@@ -9,4 +9,4 @@ Prettiness is not a priority for this project.
 
 ![wireframe](./wireframe.svg)
 
-[](https://github.com/lab-antwerp-1/group-2-hyf/blob/dev-strategy/design.png)
+![](https://github.com/lab-antwerp-1/group-2-hyf/blob/dev-strategy/design.png)

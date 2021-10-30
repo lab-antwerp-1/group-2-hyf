@@ -5,7 +5,7 @@ Prettiness is not a priority for this project.
 
 ---
 
-<!--> [wireframe source](https://excalidraw.com/#json=5697932045058048,50g_dMeek8cnpk9dH1teGg)
+<!-- [wireframe source](https://excalidraw.com/#json=5697932045058048,50g_dMeek8cnpk9dH1teGg)
 ![wireframe](./wireframe.svg)
 -->
 ![](https://github.com/lab-antwerp-1/group-2-hyf/blob/dev-strategy/design.png)

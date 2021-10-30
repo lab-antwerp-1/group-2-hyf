@@ -32,7 +32,7 @@ contribute to the `/planning/backlog.md` file.
 
 An issue to discuss the project's design, this can be linked to PRs that
 contribute to the `/planning/design.md` file. In simpler projects like this the
-goal of a design is to create a wireframe.
+goal of a design is to create a WireFrame.
 
 - **Labels**: `design`, `type: planning`
 
@@ -78,7 +78,7 @@ free to change these if your team wants to, it's just a starting suggestion:
 
 <details>
 <summary> Site Title: Interface </summary>
-<br>
+  * < br >
 
 **Milestone**: `must have`
 
@@ -102,7 +102,7 @@ Header with centered title
 </details>
 <details>
 <summary> Introduction: Interface </summary>
-<br>
+  * < br >
 
 **Milestone**: `must have`
 
@@ -128,7 +128,7 @@ A body of text and links
 </details>
 <details>
 <summary> Main Info: Interface </summary>
-<br>
+  * < br >
 
 **Milestone**: `must have`
 
@@ -153,7 +153,7 @@ Header with centered title
 </details>
 <details>
 <summary> Extra Info: Interface </summary>
-<br>
+  * < br >
 
 **Milestone**: `must have`
 

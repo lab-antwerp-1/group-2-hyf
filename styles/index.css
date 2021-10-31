@@ -1,3 +1,119 @@
+#welcome {
+  width: 150%;
+  height: auto;
+  border: 2px solid #e3985a;
+}
+
+.body-image{
+  max-width: 100%;
+  height: auto;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+  width: 200px;
+  height: 100px;
+  border-radius: 5%;
+
+
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+h2 {
+  line-height: 4em;
+}
+
+p {
+  line-height: normal;
+}
+
+img {
+  width: 100%;
+}
+
 body {
-  background-color: white;
+  font-family: "Lato", sans-serif;
+  color: rgb(182, 177, 177);
+  line-height: 3.9;
+  background-color: rgb(255, 255, 255);
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(93, 15, 87);
+}
+
+nav {
+  background-color: rgb(255, 255, 255);
+  color: rgb(93, 15, 87);
+  height: 70px;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.nav .flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+nav a {
+  color: darkred;
+  padding: 20px;
+  margin: 0 5px;
+}
+
+nav a.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+footer > p {
+  position: fixed;
+  bottom: 0;
+  left: 1%;
+}
+
+footer > a {
+  position: fixed;
+  display: flex;
+  bottom: 0;
+  left: 48%;
+}
+
+nav a:hover {
+  border-bottom: 2px rgb(197, 120, 120) solid;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+
+.text-center {
+  text-align: center;
 }

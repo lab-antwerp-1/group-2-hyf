@@ -30,9 +30,15 @@ what is it and how to apply hack your future program, and also what will be
 expected as a coach from hack your future program.
 
 ## Volunteers
-A volunteer persona will want to find that why should s/he volunteer at hack your future and explain why hack your future is important for volunteers. 
+
+A volunteer persona will want to find that why should s/he volunteer at hack
+your future and explain why hack your future is important for volunteers.
+
 ## Partners
-A partner persona will want to find a good place which can make a good advertisement for it's company.
+
+A partner persona will want to find a good place which can make a good
+advertisement for it's company.
 
 ## Companies
-As a company persona will want to find alumnies from hack your future program. 
+
+As a company persona will want to find alumnies from hack your future program.

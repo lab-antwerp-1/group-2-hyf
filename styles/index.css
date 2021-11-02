@@ -1,3 +1,25 @@
 body {
   background-color: white;
 }
+
+body {
+  background-color: white;
+}
+
+/* Container holding the image and the text */
+.container {
+  position: absolute;
+  text-align: center;
+  font-style: italic;
+  font-family: fantasy;
+  font-size: 75px;
+  color: rgb(0, 81, 255);
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-100%, -0%);
+}

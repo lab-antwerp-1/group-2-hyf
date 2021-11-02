@@ -1,6 +1,6 @@
-# (project name)
+# HYF Group 2
 
-<!-- describe your project -->
+Alternative website for HYF community
 
 ## Getting Started
 

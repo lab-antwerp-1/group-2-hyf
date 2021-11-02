@@ -1,3 +1,126 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
 body {
+  font-family: "Montserrat", sans-serif;
   background-color: white;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 4fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 5px 0;
+  grid-template-areas:
+    ". header-logo ."
+    ". header-navigation ."
+    ". slide-show ."
+    ". body-row-left ."
+    ". body-row-right ."
+    ". body-banner ."
+    ". footer .";
+}
+
+.header-logo {
+  grid-area: header-logo;
+}
+
+.header-logo-color {
+  background-color: aqua;
+}
+
+.header-navigation {
+  grid-area: header-navigation;
+}
+
+.header-navigation ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+a {
+  text-decoration: none;
+}
+
+.header-navigation a {
+  border-radius: 20px;
+  color: black;
+  padding: 10px;
+  margin: 5px;
+  border: 2px solid #999;
+}
+
+.header-navigation a:hover {
+  color: black;
+  background-color: #eee;
+}
+
+.slide-show {
+  grid-area: slide-show;
+  position: relative;
+  margin-top: 20px;
+}
+
+.bottom-right-text {
+  position: absolute;
+  bottom: 20px;
+  right: 16px;
+  font-size: xx-large;
+  color: #fff;
+  text-align: right;
+}
+
+.body-row-left {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 0 0;
+  grid-template-areas: "img-row-left txt-row-right";
+  grid-area: body-row-left;
+}
+
+.img-row-left {
+  grid-area: img-row-left;
+}
+
+.txt-row-right {
+  grid-area: txt-row-right;
+}
+
+.body-row-right {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 0 0;
+  grid-template-areas: "txt-row-left img-row-right";
+  grid-area: body-row-right;
+}
+
+.img-row-right {
+  grid-area: img-row-right;
+}
+
+.txt-row-left {
+  grid-area: txt-row-left;
+}
+
+.body-banner {
+  grid-area: body-banner;
+}
+
+.footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 0 0;
+  grid-template-areas: "footer-logos footer-buttons";
+  grid-area: footer;
+}
+
+.footer-logos {
+  grid-area: footer-logos;
+}
+
+.footer-buttons {
+  grid-area: footer-buttons;
 }

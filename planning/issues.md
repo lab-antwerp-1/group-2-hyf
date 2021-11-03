@@ -7,7 +7,7 @@ The site needs a logo at the top of the page.
 
 Header with centered logo
 
-- HTML: 
+- HTML:
 - [ ] a header element with logo
 - [ ] a nav bar with all sections
 - CSS:
@@ -18,11 +18,11 @@ Header with centered logo
 **Issue slideshow**:
 
 ```markdown
-it should have to be a photo wilth motivation text 
+it should have to be a photo wilth motivation text
 
 - HTML:
 - [ ] will contain image
-- [ ] will contain text 
+- [ ] will contain text
 - CSS:
 - [ ] the img will be centerd and fit to the container class
 - [ ] the text over the image
@@ -35,24 +35,25 @@ There is a main text about program with helpful info and photo.
 
 Header with centered title
 
-- HTML: 
+- HTML:
 - [ ] a section with some information about programs
 - [ ] a photo about the program
 - CSS:
-- [ ]  a text at left side
+- [ ] a text at left side
 - [ ] a photo at right side
 ```
 
 **Issue Body row 2**:
 
 ```markdown
-image with text about witch positions as a volunteer in hyf progarm and inforfmation about coaching and mentoring.
+image with text about witch positions as a volunteer in hyf progarm and
+inforfmation about coaching and mentoring.
 
-- HTML: 
+- HTML:
 - [ ] a section with some information about volunteer program
 - [ ] a photo about the volunteers
 - CSS:
-- [ ]  a text at right side
+- [ ] a text at right side
 - [ ] a photo at left side
 ```
 
@@ -61,11 +62,11 @@ image with text about witch positions as a volunteer in hyf progarm and inforfma
 ```markdown
 There is a main text about hack your future with helpful info and photo.
 
-- HTML: 
+- HTML:
 - [ ] a section with some information about hack your future
 - [ ] a photo about hack your future
 - CSS:
-- [ ]  a text at left side
+- [ ] a text at left side
 - [ ] a photo at right side
 ```
 
@@ -74,7 +75,7 @@ There is a main text about hack your future with helpful info and photo.
 ```markdown
 will containts our partners informations with logos a linked to their websit
 
-- HTML: 
+- HTML:
 - [ ] a logo about the partners
 - CSS:
 - [ ] the img will be centerd and fit to the container class
@@ -83,9 +84,10 @@ will containts our partners informations with logos a linked to their websit
 **Issue footer**:
 
 ```markdown
-will containts our social media account with info about faq and supporting us section withe contact info
+will containts our social media account with info about faq and supporting us
+section withe contact info
 
-- HTML: 
+- HTML:
 - [ ] emails, phone numbers and social media links
 - CSS:
 - [ ] social media account's logos

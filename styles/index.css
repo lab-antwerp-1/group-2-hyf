@@ -108,6 +108,19 @@ a {
   grid-area: body-banner;
 }
 
+img {
+  float: right;
+}
+
+p {
+  text-align: left;
+  text-indent: 150px;
+  letter-spacing: 2px;
+  line-height: 2;
+  text-shadow: 2px 2px 5px rgb(20, 10, 161);
+  color: #097ce7;
+}
+
 .footer {
   display: grid;
   grid-template-columns: 1fr 1fr;

@@ -106,19 +106,43 @@ a {
 
 .body-banner {
   grid-area: body-banner;
+  justify-content: space-between;
 }
 
 img {
   float: right;
+  text-indent: 20px;
 }
 
 p {
+  float: auto;
   text-align: left;
-  text-indent: 150px;
+  margin-top: 40px;
+  text-indent: 0;
   letter-spacing: 2px;
   line-height: 2;
   text-shadow: 2px 2px 5px rgb(20, 10, 161);
   color: #097ce7;
+}
+
+.body-two > img {
+  float: left;
+  top: 100%;
+  margin-top: -100px;
+  margin-bottom: 100px;
+  width: 50%;
+}
+
+.body-two > p {
+  float: auto;
+  text-align: left;
+  letter-spacing: 2px;
+  line-height: 2;
+  margin-bottom: 200px;
+  margin-top: 15%;
+  text-shadow: 2px 2px 5px rgb(20, 10, 161);
+  color: #097ce7;
+  opacity: inherit;
 }
 
 .footer {
